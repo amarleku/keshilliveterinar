@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Jun 2020 17:18:21 at https://keshilliveterinar.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://keshilliveterinar.com/ -O1 "C:\My Web Sites\keshilli veterinar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:18:23	Warning: 	Note: due to https://keshilliveterinar.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+17:19:34	Error: 	"Method Not Allowed" (405) at link https://keshilliveterinar.com/xmlrpc.php (from https://keshilliveterinar.com/)
+17:23:25	Error: 	"Not Found" (404) at link https://keshilliveterinar.com/wp-content/themes/pet-care-clinic/inc/images/slide-nav.png (from https://keshilliveterinar.com/wp-content/cache/autoptimize/css/autoptimize_cf1efec499ddbf35e8322b333d2de31a.css)
+17:23:25	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=94
+17:23:25	Warning: 	File has moved from https://keshilliveterinar.com/?p=94 to https://keshilliveterinar.com/revistat/
+17:23:25	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=144
+17:23:25	Warning: 	File has moved from https://keshilliveterinar.com/?p=144 to https://keshilliveterinar.com/ligji-per-ushqimin/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=149
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=149 to https://keshilliveterinar.com/urdhri-profesional-i-mjekut-veterinar-te-shqiperise/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=155
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=155 to https://keshilliveterinar.com/per-sherbimin-veterinar-ne-republiken-e-shqiperise/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=158
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=158 to https://keshilliveterinar.com/per-profesionet-e-rregulluara-ne-republiken-e-shqiperise/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=467
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=467 to https://keshilliveterinar.com/komisionet-e-urdhrit-te-mjekut-veterinar/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=173
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=173 to https://keshilliveterinar.com/galeria/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=188
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=188 to https://keshilliveterinar.com/kursi-i-1-farmacise-korrik-gusht-2018/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=210
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=210 to https://keshilliveterinar.com/kursi-i-2-i-farmacise-shtator-tetor-2018/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=219
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=219 to https://keshilliveterinar.com/trajnimet-vjetor-qershor-2018/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=248
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=248 to https://keshilliveterinar.com/trajnimi-i-farmacise-2018/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=258
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=258 to https://keshilliveterinar.com/trajnimi-i-insiminimit-lushnje-fier-tirane-elbasan-lezhe-2018/
+17:23:26	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=304
+17:23:26	Warning: 	File has moved from https://keshilliveterinar.com/?p=304 to https://keshilliveterinar.com/trajnimi-i-kafsheve-te-vogla-me-turkun26-05-2018/
+17:23:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://use.fontawesome.com/releases/v5.3.1/js/v4-shims.js?ver=5.3.1 (from https://keshilliveterinar.com/trajnimi-i-kafsheve-te-vogla-me-turkun26-05-2018/)
+17:23:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://use.fontawesome.com/releases/v5.3.1/js/all.js?ver=5.3.1 (from https://keshilliveterinar.com/trajnimi-i-kafsheve-te-vogla-me-turkun26-05-2018/)
+17:23:32	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=312
+17:23:32	Warning: 	File has moved from https://keshilliveterinar.com/?p=312 to https://keshilliveterinar.com/trajnimi-veteriner-i-autorizuar-2018/
+17:23:32	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=355
+17:23:32	Warning: 	File has moved from https://keshilliveterinar.com/?p=355 to https://keshilliveterinar.com/trajnimet-shtes-2017/
+17:23:32	Warning: 	Moved Permanently for https://keshilliveterinar.com/category/dekorata/feed/
+17:23:32	Warning: 	File has moved from https://keshilliveterinar.com/category/dekorata/feed/ to https://keshilliveterinar.com/
+17:23:35	Warning: 	Moved Permanently for https://keshilliveterinar.com/category/homecat/
+17:23:35	Warning: 	File has moved from https://keshilliveterinar.com/category/homecat/ to https://keshilliveterinar.com/
+17:23:35	Warning: 	Moved Permanently for https://keshilliveterinar.com/category/uncategorized/
+17:23:35	Warning: 	File has moved from https://keshilliveterinar.com/category/uncategorized/ to https://keshilliveterinar.com/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/category/veterinaria/feed/
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/category/veterinaria/feed/ to https://keshilliveterinar.com/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=121
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=121 to https://keshilliveterinar.com/te-ushqyerit-e-kafsheve/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=127
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=127 to https://keshilliveterinar.com/lindja-dhe-ecuria-e-mjeksise-veterinare-1900-1944-pjesa-e-pare/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=129
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=129 to https://keshilliveterinar.com/lindja-dhe-ecuria-e-mjeksise-veterinare-1900-1944-pjesa-e-dyte/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=505
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=505 to https://keshilliveterinar.com/voto/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=24
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=24 to https://keshilliveterinar.com/slider-one/slider/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=377
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=377 to https://keshilliveterinar.com/slider-one/the-professional-veterinary-order-of-albania/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=579
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=579 to https://keshilliveterinar.com/2020/05/11/kodi-i-etikes-profesionale/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=577
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=577 to https://keshilliveterinar.com/2020/05/11/keshilli-veterinar-shqiptar-2/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=574
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=574 to https://keshilliveterinar.com/2020/05/11/statuti-i-urdhrit-profesional-te-mjekut-veterinar-te-shqiperise-2/
+17:23:43	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=383
+17:23:43	Warning: 	File has moved from https://keshilliveterinar.com/?p=383 to https://keshilliveterinar.com/2019/06/24/urdhri-profesional-i-mjekut-veterinar-shqiptar-antar-i-federates-veterinare-europiane-fve/
+17:23:46	Warning: 	Moved Permanently for https://keshilliveterinar.com/?p=550
+17:23:46	Warning: 	File has moved from https://keshilliveterinar.com/?p=550 to https://keshilliveterinar.com/2020/02/07/fve-working-group-food-safety-and-sustainability-2020-2022-terms-of-reference/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 27 seconds : 296 links scanned, 261 files written (18939141 bytes overall) [17574212 bytes received at 53743 bytes/sec], 2326313 bytes transferred using HTTP compression in 86 files, ratio 31%, 1.8 requests per connection
+(2 errors, 63 warnings, 0 messages)
